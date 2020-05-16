@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(238, 176, 78);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(97, 59, 26);
+    font-size: 48px;
+}
+
+div {
+    background-color: #ffffff;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+button {
+    background-color: rgb(70, 163, 228);
+    height: 30px;
+}
+
+#addItem {
+    height: 24px;
+    width: 90%;
+}
+
+p {
+    color: #007bff;
+    text-decoration: underline;
+}
